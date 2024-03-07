@@ -1,2 +1,2 @@
-# Thisis
+# Thesis
 Thesis Adaptive sampling
